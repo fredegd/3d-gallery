@@ -1,3 +1,3 @@
-# 3d-gallery
+# 3d-Sphere
 
-this is a prototype for a 3D art gallery
+this will be  a prototype for a 3D art gallery
